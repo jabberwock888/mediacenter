@@ -1,0 +1,19 @@
+apiVersion: v1
+entries:
+  plex:
+  - appVersion: "1"
+    created: 2018-02-18T20:22:19.4896596+01:00
+    description: Media center
+    digest: 816f589e2bf7c5ca4df6610b64a2d5fb2f86a2be676310510d95c32ac67b60d9
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - plex
+    - mediacenter
+    maintainers:
+    - email: pika@chu.fr
+      name: jabberwock88
+    name: plex
+    urls:
+    - https://github.com/jabberwock888/mediacenter/plex-1.tgz
+    version: "1"
+generated: 2018-02-18T20:22:19.4889624+01:00
