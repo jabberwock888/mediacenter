@@ -1,0 +1,140 @@
+apiVersion: v1
+entries:
+  couchpotato:
+  - appVersion: "1"
+    created: 2018-04-15T11:44:33.638356859+02:00
+    description: Automatic movies downloads
+    digest: b4a1f16b6f5fd7d6478eda73ed2dcd8266724647f07f7fc8e3577b7e05fd66fd
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - couchpotato
+    - movies
+    maintainers:
+    - email: pika@chu.fr
+      name: jabberwock88
+    name: couchpotato
+    urls:
+    - couchpotato-1.tgz
+    version: "1"
+  httpd:
+  - appVersion: "1"
+    created: 2018-04-15T11:44:33.638558155+02:00
+    description: Static web server
+    digest: af21ad2b71624e5862eb29bcc6c36f912bbd2c5965ab7fc302b62e623f645bb5
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - httpd
+    - web
+    maintainers:
+    - email: pika@chu.fr
+      name: jabberwock88
+    name: httpd
+    urls:
+    - httpd-1.tgz
+    version: "1"
+  jdownloader:
+  - appVersion: "1"
+    created: 2018-04-15T11:44:33.63874739+02:00
+    description: Download manager
+    digest: 76fdaaf7a5f20cbff27794e262981f22f66d3c45b76ad9358b1671f65bdd75a9
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - jd2
+    - jdownloader
+    maintainers:
+    - email: pika@chu.fr
+      name: jabberwock88
+    name: jdownloader
+    urls:
+    - jdownloader-1.tgz
+    version: "1"
+  mail:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2018-04-15T11:44:33.638906482+02:00
+    description: Email Server/client
+    digest: 4e9dba1d53b66adf5c1c6c1a63e43d4a195bb9333f558afc5933a60b0df83fd9
+    name: mail
+    urls:
+    - mail-1.tgz
+    version: "1"
+  nextcloud:
+  - appVersion: "1"
+    created: 2018-04-15T11:44:33.639116836+02:00
+    description: Storage drive
+    digest: fa4794cf5ddad71ce74755f392922aade3e0ebf4a977eb34862aada47facc0fa
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - owncloud
+    - drive
+    maintainers:
+    - email: pika@chu.fr
+      name: jabberwock88
+    name: nextcloud
+    urls:
+    - nextcloud-1.tgz
+    version: "1"
+  plex:
+  - appVersion: "1"
+    created: 2018-04-15T11:44:33.639329572+02:00
+    description: Media center
+    digest: 5c0a31a961cc163f493ab9e94b3dbb8bd39708c21a9bc57c35c32d281fe86b52
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - plex
+    - mediacenter
+    maintainers:
+    - email: pika@chu.fr
+      name: jabberwock88
+    name: plex
+    urls:
+    - plex-1.tgz
+    version: "1"
+  rtorrent:
+  - appVersion: "1"
+    created: 2018-04-15T11:44:33.639604617+02:00
+    description: Torrents downloads
+    digest: a438131226f0a24dc64d350c9d327ed07066c04e3a43cb6a229ba13ee7b71030
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - rtorrent
+    - torrent
+    maintainers:
+    - email: pika@chu.fr
+      name: jabberwock88
+    name: rtorrent
+    urls:
+    - rtorrent-1.tgz
+    version: "1"
+  sickrage:
+  - appVersion: "1"
+    created: 2018-04-15T11:44:33.639893308+02:00
+    description: Automatic tv shows downloads
+    digest: 7b2161ae97558ecf2f7339c36f77520055c621e4cef06e66db1e46e0358cbb88
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - sickrage
+    - tv shows
+    maintainers:
+    - email: pika@chu.fr
+      name: jabberwock88
+    name: sickrage
+    urls:
+    - sickrage-1.2.3.tgz
+    version: 1.2.3
+  - appVersion: "1"
+    created: 2018-04-15T11:44:33.640172368+02:00
+    description: Automatic tv shows downloads
+    digest: 313dc633c0491c7da6e84ff158ee28fc414577358a75df552c5923c631c3dec4
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - sickrage
+    - tv shows
+    maintainers:
+    - email: pika@chu.fr
+      name: jabberwock88
+    name: sickrage
+    urls:
+    - sickrage-1.tgz
+    version: "1"
+generated: 2018-04-15T11:44:33.637490437+02:00
