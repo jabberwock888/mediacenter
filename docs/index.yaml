@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   couchpotato:
   - appVersion: "1"
-    created: 2018-02-25T18:23:45.195162859+01:00
+    created: 2018-04-15T11:38:20.497269383+02:00
     description: Automatic movies downloads
     digest: 3118eb5af47447b1d18108a60c1a7d7e20038bfaac083dd9968615cc014ab23a
     icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
@@ -18,7 +18,7 @@ entries:
     version: "1"
   jdownloader:
   - appVersion: "1"
-    created: 2018-02-25T18:23:45.195428386+01:00
+    created: 2018-04-15T11:38:20.497481582+02:00
     description: Download manager
     digest: 76fdaaf7a5f20cbff27794e262981f22f66d3c45b76ad9358b1671f65bdd75a9
     icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
@@ -35,7 +35,7 @@ entries:
   mail:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-02-25T18:23:45.195585172+01:00
+    created: 2018-04-15T11:38:20.497641913+02:00
     description: Email Server/client
     digest: 4e9dba1d53b66adf5c1c6c1a63e43d4a195bb9333f558afc5933a60b0df83fd9
     name: mail
@@ -44,7 +44,7 @@ entries:
     version: "1"
   nextcloud:
   - appVersion: "1"
-    created: 2018-02-25T18:23:45.195801895+01:00
+    created: 2018-04-15T11:38:20.497857263+02:00
     description: Storage drive
     digest: fa4794cf5ddad71ce74755f392922aade3e0ebf4a977eb34862aada47facc0fa
     icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
@@ -60,7 +60,7 @@ entries:
     version: "1"
   plex:
   - appVersion: "1"
-    created: 2018-02-25T18:23:45.19600713+01:00
+    created: 2018-04-15T11:38:20.498058321+02:00
     description: Media center
     digest: 5c0a31a961cc163f493ab9e94b3dbb8bd39708c21a9bc57c35c32d281fe86b52
     icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
@@ -76,7 +76,7 @@ entries:
     version: "1"
   rtorrent:
   - appVersion: "1"
-    created: 2018-02-25T18:23:45.196285848+01:00
+    created: 2018-04-15T11:38:20.498341669+02:00
     description: Torrents downloads
     digest: ea455a1ca1cbbd81a1af42ca244729d19f41690ed987765f4718536848ce9ebd
     icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
@@ -92,9 +92,9 @@ entries:
     version: "1"
   sickrage:
   - appVersion: "1"
-    created: 2018-02-25T18:23:45.196577474+01:00
+    created: 2018-04-15T11:38:20.498624987+02:00
     description: Automatic tv shows downloads
-    digest: 109ccc93540909e979d353c5791f6c9158f538be2d21453b82c58a6ee5c3cc03
+    digest: 7b2161ae97558ecf2f7339c36f77520055c621e4cef06e66db1e46e0358cbb88
     icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
     keywords:
     - sickrage
@@ -104,6 +104,6 @@ entries:
       name: jabberwock88
     name: sickrage
     urls:
-    - sickrage-1.tgz
-    version: "1"
-generated: 2018-02-25T18:23:45.19431105+01:00
+    - sickrage-1.2.3.tgz
+    version: 1.2.3
+generated: 2018-04-15T11:38:20.496413023+02:00
