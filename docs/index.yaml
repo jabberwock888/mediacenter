@@ -1,7 +1,7 @@
 apiVersion: v1
 entries:
   couchpotato:
-  - appVersion: "1"
+  - appVersion: "0.1.1"
     created: 2018-05-10T22:08:57.404374748Z
     description: Automatic movies downloads
     digest: b4a1f16b6f5fd7d6478eda73ed2dcd8266724647f07f7fc8e3577b7e05fd66fd
